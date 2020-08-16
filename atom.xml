@@ -6,7 +6,7 @@
   <link href="http://blogyun-xuan.com/atom.xml" rel="self"/>
   
   <link href="http://blogyun-xuan.com/"/>
-  <updated>2020-08-14T14:53:39.634Z</updated>
+  <updated>2020-08-16T02:37:47.800Z</updated>
   <id>http://blogyun-xuan.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://blogyun-xuan.com/2020/08/16/hello/"/>
+    <id>http://blogyun-xuan.com/2020/08/16/hello/</id>
+    <published>2020-08-16T02:34:56.000Z</published>
+    <updated>2020-08-16T02:37:47.800Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新建一篇文章"><a href="#新建一篇文章" class="headerlink" title="新建一篇文章"></a>新建一篇文章</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;新建一篇文章&quot;&gt;&lt;a href=&quot;#新建一篇文章&quot; class=&quot;headerlink&quot; title=&quot;新建一篇文章&quot;&gt;&lt;/a&gt;新建一篇文章&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="http://blogyun-xuan.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="闲言" scheme="http://blogyun-xuan.com/tags/%E9%97%B2%E8%A8%80/"/>
+    
+    <category term="心情" scheme="http://blogyun-xuan.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
